@@ -2,6 +2,9 @@ import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
 
+
+# Funciones de conexión y operaciones CRUD
+
 def conectar():
     return mysql.connector.connect(
         host="localhost",
