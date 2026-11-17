@@ -1,4 +1,5 @@
 # Modificado por: Dafne Regina Gomez Flores
+#Paulina Marisol Herrera Miranda
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
